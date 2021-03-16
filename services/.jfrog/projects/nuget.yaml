@@ -1,0 +1,6 @@
+version: 1
+type: nuget
+resolver:
+  repo: nuget-cli-virtual
+  serverId: divija
+  nugetV2: true
